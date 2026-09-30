@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.env
+.idea/
+.vscode/
+gazetype_profile.json
+gazetype_session_history.json
