@@ -1,0 +1,145 @@
+[
+  {
+    "timestamp": "2026-08-30 23:00:35",
+    "characters": 13,
+    "words": 1,
+    "selections": 13,
+    "backspaces": 0,
+    "rejected_blinks": 1,
+    "correction_free_rate": 92.3,
+    "final_frames_per_letter": 34,
+    "estimated_wpm": 0.5
+  },
+  {
+    "timestamp": "2026-08-30 23:01:52",
+    "characters": 6,
+    "words": 1,
+    "selections": 6,
+    "backspaces": 0,
+    "rejected_blinks": 2,
+    "correction_free_rate": 66.7,
+    "final_frames_per_letter": 38,
+    "estimated_wpm": 0.8
+  },
+  {
+    "timestamp": "2026-09-01 19:12:10",
+    "characters": 0,
+    "words": 0,
+    "selections": 0,
+    "backspaces": 0,
+    "rejected_blinks": 0,
+    "correction_free_rate": 100.0,
+    "final_frames_per_letter": 38,
+    "estimated_wpm": 0.0
+  },
+  {
+    "timestamp": "2026-09-01 19:24:41",
+    "characters": 4,
+    "words": 1,
+    "selections": 4,
+    "backspaces": 0,
+    "rejected_blinks": 0,
+    "correction_free_rate": 100.0,
+    "final_frames_per_letter": 38,
+    "estimated_wpm": 1.9
+  },
+  {
+    "timestamp": "2026-09-01 19:27:11",
+    "characters": 5,
+    "words": 1,
+    "selections": 5,
+    "backspaces": 0,
+    "rejected_blinks": 0,
+    "correction_free_rate": 100.0,
+    "final_frames_per_letter": 42,
+    "estimated_wpm": 0.8
+  },
+  {
+    "timestamp": "2026-09-01 19:33:13",
+    "characters": 10,
+    "words": 2,
+    "selections": 8,
+    "backspaces": 0,
+    "rejected_blinks": 0,
+    "correction_free_rate": 100.0,
+    "final_frames_per_letter": 46,
+    "estimated_wpm": 1.2
+  },
+  {
+    "timestamp": "2026-09-01 19:34:06",
+    "characters": 1,
+    "words": 1,
+    "selections": 1,
+    "backspaces": 0,
+    "rejected_blinks": 0,
+    "correction_free_rate": 100.0,
+    "final_frames_per_letter": 46,
+    "estimated_wpm": 2.3
+  },
+  {
+    "timestamp": "2026-09-01 19:34:33",
+    "characters": 0,
+    "words": 0,
+    "selections": 0,
+    "backspaces": 0,
+    "rejected_blinks": 0,
+    "correction_free_rate": 100.0,
+    "final_frames_per_letter": 46,
+    "estimated_wpm": 0.0
+  },
+  {
+    "timestamp": "2026-09-01 19:35:57",
+    "characters": 13,
+    "words": 1,
+    "selections": 13,
+    "backspaces": 0,
+    "rejected_blinks": 0,
+    "correction_free_rate": 100.0,
+    "final_frames_per_letter": 50,
+    "estimated_wpm": 0.8
+  },
+  {
+    "timestamp": "2026-09-01 19:37:28",
+    "characters": 5,
+    "words": 1,
+    "selections": 5,
+    "backspaces": 0,
+    "rejected_blinks": 0,
+    "correction_free_rate": 100.0,
+    "final_frames_per_letter": 50,
+    "estimated_wpm": 0.8
+  },
+  {
+    "timestamp": "2026-09-01 19:39:29",
+    "characters": 5,
+    "words": 1,
+    "selections": 5,
+    "backspaces": 0,
+    "rejected_blinks": 0,
+    "correction_free_rate": 100.0,
+    "final_frames_per_letter": 50,
+    "estimated_wpm": 0.7
+  },
+  {
+    "timestamp": "2026-09-01 19:42:34",
+    "characters": 0,
+    "words": 0,
+    "selections": 0,
+    "backspaces": 0,
+    "rejected_blinks": 0,
+    "correction_free_rate": 100.0,
+    "final_frames_per_letter": 50,
+    "estimated_wpm": 0.0
+  },
+  {
+    "timestamp": "2026-09-01 19:45:38",
+    "characters": 8,
+    "words": 1,
+    "selections": 8,
+    "backspaces": 0,
+    "rejected_blinks": 0,
+    "correction_free_rate": 100.0,
+    "final_frames_per_letter": 35,
+    "estimated_wpm": 0.7
+  }
+]
